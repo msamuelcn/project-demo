@@ -7,7 +7,7 @@ st.subheader("Summary")
 # st.markdown(" - **Epic Comeback Connoisseurs** were made up infrequent, but heavy spenders")
 # st.markdown("- **Campaigns** were designed for each customer cluster based on their spending behaviors to encourage increased digital transactions.")
 
-st.image("image/25.jpg")
+st.image("images/25.jpg")
 
 st.markdown("""
 * For the entire dataset, **Six (6) clusters were determined. Two (2) of which were considered disengaged** while the remaining **Four (4) were subjected to further profiling**.
