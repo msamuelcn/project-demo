@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.title("Results")
 st.subheader("Pre-profiling")
 st.image("images/8.jpg")
 
