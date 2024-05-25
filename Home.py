@@ -5,11 +5,11 @@ st.title("An Analysis on AAC’s Customers and their Spending Behaviors")
 st.caption('Presented By: Group 2 | Hungry Sleepers')
 
 st.subheader("Goals and Objectives")
-st.image("images/3.jpg")
+st.image("images/3_final.jpg")
 st.subheader("About the dataset")
-st.image("images/4.jpg")
+st.image("images/4_final.jpg")
 st.subheader("Scope and Limitations")
-st.image("images/5.jpg")
+st.image("images/5_final.jpg")
 st.header("Methodology")
 st.image("images/6.jpg")
 st.subheader("Overview of customer demographics.")
@@ -48,8 +48,8 @@ st.subheader("Summary")
 st.markdown("""
 * For the entire dataset, **Six (6) clusters were determined. Two (2) of which were considered disengaged** while the remaining **Four (4) were subjected to further profiling**.
   * **Digital Dynamo** consisted of heavy frequent spenders with around same average spending for digital and physical.
+  * **Cyber Savvy Shoppers** were a step lower than Cluster 0 and were known for their digital spending.
   * **Festive Spenders** were considered as ‘Festive Spenders’ since their average spendings peaked during the holidays.
-  *  **Epic Comeback Connoisseurs** were made up infrequent, but heavy spenders.
-  *  **Campaigns** were designed for each customer cluster based on their spending behaviors to encourage increased digital transactions.
+  * **Epic Comeback Connoisseurs** were made up of infrequent, but heavy spenders.
 * **Campaigns** were designed for each customer cluster based on their spending behaviors to encourage increased digital transactions.  
 """)
